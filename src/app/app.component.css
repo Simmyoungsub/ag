@@ -1,0 +1,4 @@
+.side { float:left;background : url(../images/back1.png) repeat-y 70% 0;color:#fff;width:20%;}
+.content { float : right;}
+.clear{float:both;}
+.header { text-align : center; }
